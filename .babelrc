@@ -1,0 +1,5 @@
+{
+  // tranfer common ES6->normal js code
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
+  "plugins": ["@babel/plugin-transform-runtime"]
+}
